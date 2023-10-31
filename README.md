@@ -1,1 +1,2 @@
 # Grocery-Store-Sales-Prediction
+The objective is to develop a predictive model for forecasting the sales of individual products at specific retail stores. This project aims to create a model that enables Big Mart to analyze and predict the sales of their outlets. It serves as an ideal project for gaining practical experience in data analytics and applying machine learning techniques, including Linear Regression, Random Forest Regressor, and XG Boost, to make accurate predictions regarding the sales of Big Mart's products at their various outlets.
